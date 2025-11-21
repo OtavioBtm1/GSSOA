@@ -1,4 +1,4 @@
-# Sprint 1
+# Global Solution
 # Sistema de Cadastro de Usuários
 
 ## Descrição do Projeto
