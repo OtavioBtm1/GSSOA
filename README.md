@@ -60,7 +60,7 @@ O sistema foi desenvolvido utilizando Java 17+, com arquitetura em camadas (Cont
 1. **Clonar o repositório**
 
    ```bash
-   git clone https://github.com/OtavioBtm1/SOASprint.git
+   git clone https://github.com/OtavioBtm1/GSSOA.git
 
 2. **Entrar na pasta do projeto**
    
