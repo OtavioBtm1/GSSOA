@@ -103,8 +103,6 @@ O sistema foi desenvolvido utilizando Java 17+, com arquitetura em camadas (Cont
   `http://localhost:8080/swagger-ui.html`
 
 ###W Equipe
-- Maitê Savicius Menezes RM98435
-- Murilo Henrique Obinata RM99855
 - Otavio Vitoriano da Silva RM552012
 - Eduardo Fedeli Souza RM550132
 - Gabriel Torres Luiz RM98600
