@@ -5,6 +5,30 @@
 
 Este projeto é uma aplicação Java que permite o cadastro e gerenciamento de usuários. Ele possui um menu principal com opções para registrar novos usuários, realizar login e um modo administrador para operações avançadas, como listar todos os usuários, buscar usuários por ID e deletar usuários.
 
+Descrição do Projeto
+
+Este projeto faz parte de uma plataforma digital voltada para o futuro do trabalho, integrando tecnologia de IA e desenvolvimento humano. Ele tem como objetivo gerenciar o cadastro de usuários, armazenando informações essenciais para que o sistema de recomendação, trilhas de aprendizado e networking funcione de forma personalizada.
+
+O sistema inclui:
+
+Cadastro de usuários com dados pessoais e profissionais.
+
+Armazenamento seguro em banco de dados.
+
+Preparação de dados para integração com IA e sistema de matching futuro.
+
+O projeto segue a metodologia Scrum, com backlog estruturado em Épicos, Features e PBIs, critérios de aceite claros e prioridade definida para entrega contínua de valor.
+
+Funcionalidades
+
+Criar usuário com dados de perfil (nome, email, habilidades, experiência).
+
+Editar e atualizar informações do usuário.
+
+Listar usuários cadastrados.
+
+Validar campos obrigatórios no cadastro.
+
 O sistema foi desenvolvido utilizando Java 17+, com arquitetura em camadas (Controller, Service, DAO) e comunicação via REST APIs.
 
 ---
